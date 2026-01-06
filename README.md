@@ -1,0 +1,3 @@
+## Audio Amplifier (AC-DC Converter + Boombox)
+
+This is a complete audio amplification system, integrating an AC–DC power supply with a class D audio amplifier that drives a passive speaker. Implemented rectification, filtering, and voltage regulation (shunting, transistor stage) to convert wall AC into a stable, adjustable DC rail. Designed the amplifier stage to achieve sufficient gain and output power while maintaining signal fidelity and minimizing harmonic distortion. Extended this project by integrates both the converter and amplifier into a single, two-sided PCB.
